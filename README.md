@@ -1,8 +1,11 @@
 # CYCON - ERC20 Token Smart Contract
 
+This is smart contract source code deployed on the Klaytn network as CYCON Ttoken.
+Here is token smart contract url: https://klaytnscope.com/account/0xe4a1bd45cddbbd5d9f605b08ed13a94b6b6ab5aa?tabId=txList
+
 ## Description
 
-This smart contract provides an implementation of the ERC20 standard, widely used for creating and managing tokens on the Ethereum blockchain. It includes the basic functionality necessary for a compliant ERC20 token, such as managing balances, transferring tokens, and handling allowances.
+This smart contract provides an implementation of the ERC20 standard, widely used for creating and managing tokens on the EVM based blockchain. It includes the basic functionality necessary for a compliant ERC20 token, such as managing balances, transferring tokens, and handling allowances.
 
 ### Components
 
